@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/ice-cream-flavor-portfolio-657935-657945/icecream_portfolio_frontend"
+}
